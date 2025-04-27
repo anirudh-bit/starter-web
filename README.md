@@ -8,9 +8,12 @@ This repository is for showing how Git and GitHub work
 simple intro
 
 ## Purpose
+simple purpose
 
 ##Development
 
 Sample website with plenty of files for demos
 
-####How to contribute
+##How to contribute
+
+simple contribution
