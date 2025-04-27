@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anirudh mishra ani@gmail.com xxxxxxx
 
 # THANKS
 
