@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ##How to contribute
 
 simple contribution
+
+### Copyright
+
+2025 Git.Copyright
